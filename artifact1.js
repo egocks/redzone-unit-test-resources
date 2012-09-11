@@ -1,3 +1,3 @@
 function calculateRectArea() {
-  throw 'unimplemented';
+  //throw 'unimplemented';
 }
