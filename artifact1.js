@@ -1,0 +1,3 @@
+function calculateRectArea() {
+  throw 'unimplemented';
+}
